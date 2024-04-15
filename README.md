@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 * I am well versed in Python programming, data analytics, data engineering techniques, machine learning algorithms, deep learning and some techniques of MLOps..
 
 - 🔭 I’m currently working on European Football Leagues which is a data engineering project aimed at analysing the top 5 football leagues in Europe.
+- 🌱 I'm currently learning to use better and efficient algorithms, Natural Language Processing.
