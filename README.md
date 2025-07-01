@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-* I am Abhijit Chakraborty, a newbie in the world of development. 
+* I am Abhijit Chakraborty. 
 * I enjoy working with complex problems and figuring out efficient ways of solving them.
 * I am well versed in Python programming, data analytics, data engineering techniques, machine learning algorithms, deep learning and some techniques of MLOps..
 
