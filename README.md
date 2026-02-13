@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 * I am well versed in Python programming, data analytics, data engineering techniques, machine learning algorithms, deep learning and some techniques of MLOps..
 
 - 🔭 I build and primarily work with desktop apps.
-- 🌱 I'm currently learning more about LLM orchestration, golang.
+- 🌱 I'm currently learning more about orchestration, golang.
 - 👯 I’m looking to collaborate on projects built on python.
 - 📫 How to reach me: Drop a message at any one of [Linkedin](https://www.linkedin.com/in/mraabhijit), [Twitter](https://www.twitter.com/mraabhijit), [MAIL](ab.chakraborty@outlook.com)
